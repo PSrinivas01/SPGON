@@ -1,0 +1,19 @@
+QUATION NUMBER 2 ANSWER
+
+num = int(input("enter a name:"))
+array = [ ]
+for x in range (0, num):
+     ele = int (int(input())
+     arry.append (ele)
+print (array)
+
+def findmaxdifference(num,array)
+i = 1
+c = [ ]
+for x in array :
+      b = x - array [ i ]
+      c.append(b)
+print (max(c))
+findmaxdifference(num,array)
+
+
