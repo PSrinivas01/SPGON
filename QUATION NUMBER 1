@@ -1,0 +1,24 @@
+coding and decoding program
+sample1 answer
+letters = [ ]
+string = input ("enter a string :")
+a = string [: : -1]
+for x in a:
+   b = ord (x) + 1
+   c = chr (b)
+   letters.append(c)
+print (letters)
+
+enter a string (KDIOSLO)/OUTPUT = (PMTPJEL)
+
+SAMPLE 2 
+letters = [ ]
+string = input ("enter a string :")
+a = string [: : -1]
+for x in a:
+   b = ord (x) + 1
+   c = chr (b)
+   letters.append(c)
+print (letters)
+
+enter a string (INDIAN)/ output = (OBJEOJ)
